@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StackNavigation</string>
+    <string name="first_activity_message">Olá, eu sou a primeira atividade</string>
+    <string name="second_activity_message">Olá, eu sou a segunda atividade</string>
+    <string name="third_activity_message">Olá, eu sou a terceira atividade</string>
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="go_to_second_screen">Segunda tela</string>
+    <string name="go_to_third_screen">Terceira tela</string>
+</resources>
